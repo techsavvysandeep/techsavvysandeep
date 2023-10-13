@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Sandeep Verma.
+- I’m currently learning Data Science.
+- I'm looking for help in my learnings.  
